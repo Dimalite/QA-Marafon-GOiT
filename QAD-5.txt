@@ -1,0 +1,17 @@
+Description:
+В окне редактора не выделена строчка для написания кода.
+
+• Несохраненные изменения
+Precondition:
+URL https://qa-java-introduction-test.goit.ua/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&ssid=6022a661b59e6a000feea3fa&cookie_id=61d2bf7288864d85963af180c4d3f37f&block_id=5f914c6da7573e000c68b6ce&leeloo_account_id=6022a661b59e6a000feea3f6
+Steps to reproduce:
+1. Открыть вопрос №7. Убедиться, что в окне редактора присутствует строчка где можно писать код.
+
+Expected Result:
+В окне редактора присутствует выделенная серая строчка,  в которой можно писать код.
+
+Actual Result:
+В окне редактора отсутствует выделенная строчка для написания кода.
+
+13 февр. 2021, 11:22 PM
+Активность

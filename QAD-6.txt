@@ -1,0 +1,13 @@
+Description:
+Не выполняет функцию кнопка “Следующий вопрос” в вопросе №6
+
+Precondition:
+URL https://qa-java-introduction-test.goit.ua/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&ssid=6022a661b59e6a000feea3fa&cookie_id=61d2bf7288864d85963af180c4d3f37f&block_id=5f914c6da7573e000c68b6ce&leeloo_account_id=6022a661b59e6a000feea3f6
+Steps to reproduce:
+1. Открыть вопрос №6. Убедиться, что  код в окне редактора проверку проходит. Кликни на кнопку 'Следующий вопрос'.
+
+Expected Result:
+По клику на кнопку “Следующий вопрос” открывается страница со следующим вопросом.
+
+Actual Result:
+Вопрос сбрасывается  и включается на повтор.

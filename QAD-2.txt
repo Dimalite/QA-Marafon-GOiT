@@ -1,0 +1,14 @@
+Discription:
+Лого GoiT редиректит на страницу Goiteens
+
+Preconditions:
+URL  https://qa-java-introduction-test.goit.ua/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35&ssid=6022a661b59e6a000feea3fa&cookie_id=61d2bf7288864d85963af180c4d3f37f&block_id=5f918325a7573e000c694216&leeloo_account_id=6022a661b59e6a000feea3f6
+
+Steps to Reproduce:
+1. Кликни по лого Goit по левой части хедера.
+
+Expected result:
+Пользователь перенаправлен на страницу Goit.
+
+Actual result:
+Пользователь перенаправлен на страницу Goiteens.
