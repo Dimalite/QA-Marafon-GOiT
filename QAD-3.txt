@@ -1,17 +1,17 @@
 Discription:
-Раздел теории НЕ сворачивается и окно редактора НЕ разворачивается на всю ширину страницы.
+The theory section is NOT collapsed and the editor window is NOT expanded to the full width of the page.
 
 Preconditions:
 URL https://qa-java-introduction-test.goit.ua/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35
 
 Steps to reproduce:
-1. Кликни на кнопку "Скрыть теорию и задание".
+1. Click on the "Hide theory and assignment" button.
 
 Expected Result:
-Раздел теории сворачивается и окно редактора разворачивается на всю ширину страницы. Кнопка уменьшается до иконки без текста.
+The theory section collapses and the editor window expands to the full width of the page. The button is reduced to an icon with no text.
 
 Actual Result:
-Раздел теории  и окно редактора скукоживается. 
+The theory section and the editor window are shrinking. 
 
 Jawa Test.png
-13 февр. 2021, 10:11 PM
+13 February 2021, 10:11 PM

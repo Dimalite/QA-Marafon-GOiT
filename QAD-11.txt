@@ -1,13 +1,13 @@
 Discription:
-Кнопка "Пройти еще раз" не открывает главную страницу. Страница с результатами тестов остается без изменений.
+The Go Again button does not open the main page. The test results page remains unchanged.
 
-Precondition:URL https://pro-test.goit.ua/#/   Открываем тест "Техническая подготовка"
+Precondition: URL https://pro-test.goit.ua/#/ Open the test "Technical preparation"
 Steps to reproduce:
-1. Проходим тест отвечая на все вопросы помечая их.
-2. Кликаем по кнопке "Пройти еще раз".
+1. We pass the test by answering all the questions by marking them.
+2. Click on the "Go again" button.
 Expected Result:
-1. Открывается страница с результатами теста, где отображены количество правильны и неправильных ответов и их отношения в процентах. И Их суммы.
-2. Открывается главная страница с двумя тестами.
+1. A page with test results opens, where the number of correct and incorrect answers and their ratio in percent are displayed. And Their amounts.
+2. The main page opens with two tests.
 Actual Result:
-1. Открывается страница с результатами теста.
-2 Страница с результатами тестов остается без изменений. Кнопка "Пройти еще раз" не открывает главную страницу.
+1. The test results page opens.
+2 The test results page remains unchanged. The Go Again button does not open the main page.

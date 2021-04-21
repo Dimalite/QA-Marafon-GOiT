@@ -1,21 +1,21 @@
 Description:
-На странице результатов "Счетчик" работает неверно - отображает не логическое отношение процентов правильны и не правильных ответов и сумм правильных и не правильных ответов.
+On the results page, the "Counter" does not work correctly - it displays a non-logical ratio of the percentage of correct and incorrect answers and the sum of correct and incorrect answers.
 Precondition:
-URL https://pro-test.goit.ua/#/   Открываем тест "Техническая подготовка"
+URL https://pro-test.goit.ua/#/ We open the test "Technical preparation"
 
 Steps to reproduce:
-1. Проходим тест отвечая на все вопросы помечая их.
-2. Проходим тест отвечая на все вопросы без логики (тыкая) помечая их.
+1. We pass the test by answering all the questions by marking them.
+2. We pass the test by answering all the questions without logic (poking) by marking them.
 Expected Result:
-Открывается страница с результатами теста, где отображены количество правильны и неправильных ответов и их отношения в процентах.
+A page with test results opens, where the number of correct and incorrect answers and their ratio in percent are displayed.
 
 Actual Result:
-На странице результатов Счетчик работает неверно - отображает не логическое отношение  процентов правильны и не правильных ответов и сумм правильных и не правильных ответов.
+On the results page, the counter works incorrectly - it displays a non-logical ratio of the percentage of correct and incorrect answers and the sum of correct and incorrect answers.
 To Do
-Исполнитель
+Executor
 LD
-Автор
+Author
 LD
 
-Создано 15 февраля 2021 г., 13:09
-Дата обновления 15 февраля 2021 г., 13:17
+Created February 15, 2021 1:09 PM
+Update date 15 February 2021 01:17 PM

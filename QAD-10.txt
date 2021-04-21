@@ -1,12 +1,11 @@
 Discription:
-Счетчик отображает не логическое отношение в процентах правильны и не правильных ответов и сумм правильны и не правильных ответов.
+The counter displays no logical relationship as a percentage of correct and incorrect answers and the amounts of correct and incorrect answers.
 
 Precondition:
-URL https://pro-test.goit.ua/#/   Открываем тест "Техническая подготовка"
+URL https://pro-test.goit.ua/#/ We open the test "Technical preparation"
 Steps to reproduce:
-1. Проходим тест отвечая на все вопросы помечая их.
+1. We pass the test by answering all the questions by marking them.
 Expected Result:
-1. Открывается страница с результатами теста, где отображены количество правильны и неправильных ответов и их отношения в процентах.
+1. A page with test results opens, where the number of correct and incorrect answers and their ratio in percent are displayed.
 Actual Result:
-На странице результатов Счетчик работает неверно - отображает не логическое отношение в процентах правильны и не правильных ответов и сумм правильны и не правильных ответов.
-
+On the results page, the counter works incorrectly - it displays no logical relationship in the percentage of correct and incorrect answers and the amounts of correct and incorrect answers.

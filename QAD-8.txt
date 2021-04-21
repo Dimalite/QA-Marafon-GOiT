@@ -1,16 +1,16 @@
 Discription:
-Кнопка "Предыдущий вопрос" не выполняет свою функцию - не возвращает к предыдущему вопросу.
+The "Previous question" button does not perform its function - it does not return to the previous question.
 
 Precondition:
 URL https://pro-test.goit.ua/#/
 
 Steps to reproduce:
-1. Кликни на блок "Техническая подготовка QA"
-2.  В процессе ответов на вопросы кликни на кнопку "Предыдущий вопрос"
+1. Click on the block "QA technical training"
+2. In the process of answering questions, click on the button "Previous question"
 
 Expected result:
-1. Открывается новая страница с тесовыми вопросами.
-2. Клик на кнопку "Предыдущий вопрос"  открывает страницу с соответствующим вопросом. 
+1. A new page with test questions opens.
+2. Clicking on the "Previous question" button opens a page with the corresponding question.
 Actual Result:
-Клик на кнопку "Предыдущий вопрос" не возвращает к предыдущему вопросу. 
-Страница остается без изменений.
+Clicking on the "Previous question" button does not return to the previous question.
+The page remains unchanged.

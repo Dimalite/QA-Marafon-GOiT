@@ -1,15 +1,15 @@
 Discription:
-Кнопка "Завершить тест" не заканчивает тест досрочно, страница с вопросом остается без изменения.
+The "Finish test" button does not end the test early, the page with the question remains unchanged.
 
 Precondition:
-URL https://pro-test.goit.ua/#/    Опрос по теории тестировании.
+URL https://pro-test.goit.ua/#/ Testing theory survey.
 
 Steps to reproduce:
-1. Начинаем отвечать на вопросы (выбираем один из заданных вопросов и отмечаем его).
-2. Кликаем по кнопке "Завершить тест"
+1. We begin to answer the questions (select one of the asked questions and mark it).
+2. Click on the "Finish test" button
 
 Expected Result:
-1. Вопрос засчитывается и открывается следующий.
-2. Тест завершается досрочно. Открывается новая страница.
+1. The question is counted and the next one opens.
+2. The test ends ahead of schedule. A new page is opened.
 Actual Result:
-Кнопка "Завершить тест" не заканчивает тест досрочно, страница с вопросом остается без изменения.
+The "Finish test" button does not end the test early, the page with the question remains unchanged.
